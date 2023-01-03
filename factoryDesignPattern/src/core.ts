@@ -1,7 +1,7 @@
 import createDatabase from "./database";
 import createWebserver from "./webserver";
 
-function createCore(): { start: () => void, stop: () => void } {
+function createCore() {
     const database = createDatabase();
     const webserver = createWebserver();
 

@@ -1,4 +1,3 @@
-
 function createDatabase(): { start: () => void, stop: () => void } {
 
     function start() {

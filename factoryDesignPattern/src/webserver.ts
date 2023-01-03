@@ -1,5 +1,3 @@
-
-
 function createWebserver(): { start: () => void, stop: () => void } {
     function start() {
         console.log('> [webserver] Starting...');
