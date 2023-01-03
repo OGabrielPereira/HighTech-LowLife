@@ -1,4 +1,4 @@
-./designPatterns/node_modules
-./designPatterns/dist
+.designPatterns/dist 
+.designPatterns/node_modules
 
-./factoryDesignPattern/node_modules
+.factoryDesignPattern/node_modules
