@@ -1,7 +1,6 @@
 
 function createCore() {
 
-
     function start() {
         console.log("> [core] Starting...");
 
